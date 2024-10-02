@@ -16,8 +16,8 @@ if test ! $(which brew); then
 fi
 
 # Removes .zshrc from $HOME (if it exists) and symlinks the .zshrc file from the .dotfiles
-rm -rf $HOME/.zshrc
-ln -sw $HOME/.dotfiles/.zshrc $HOME/.zshrc
+#rm -rf $HOME/.zshrc
+#ln -sw $HOME/.dotfiles/.zshrc $HOME/.zshrc # unncomment later
 
 # Update Homebrew recipes
 brew update
