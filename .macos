@@ -453,6 +453,11 @@ defaults write com.apple.dock autohide -bool true
 # 11: Launchpad
 # 12: Notification Center
 # 13: Lock Screen
+
+# Bottom left screen corner → No action
+defaults write com.apple.dock wvous-bl-corner -int 0
+defaults write com.apple.dock wvous-bl-modifier -int 0
+
 # Top left screen corner → Mission Control
 # defaults write com.apple.dock wvous-tl-corner -int 2
 # defaults write com.apple.dock wvous-tl-modifier -int 0
