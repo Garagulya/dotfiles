@@ -37,6 +37,7 @@ cask 'transmit'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'whatsapp'
+cask 'webstorm'
 cask 'zoom'
 cask 'zulu@17' # Java 17 for Android Studio React Native Development
 
