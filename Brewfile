@@ -46,7 +46,7 @@ cask 'zulu@17' # Java 17 for Android Studio React Native Development
 # cask 'quicklook-json'
 
 # Fonts
-# cask 'font-lato'
+cask 'font-meslo-for-powerlevel10k'
 # cask 'font-open-sans'
 # cask 'font-roboto'
 # cask 'font-source-code-pro-for-powerline'
