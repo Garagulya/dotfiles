@@ -13,6 +13,7 @@ brew 'fnm' # Node.js version manager
 brew 'imagemagick' # Image processing
 brew 'yarn' # Package manager
 brew 'watchman' # File watching for React-Native
+brew 'powerlevel10k' # Prompt for Zsh
 
 # Apps
 cask '1password'
