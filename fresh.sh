@@ -26,6 +26,10 @@ brew update
 brew tap homebrew/bundle
 brew bundle --file ./Brewfile
 
+# Install Zsh plugins using the script
+echo "Installing Zsh plugins..."
+./zsh-plugins-setup.sh
+
 # Create a projects directories
 mkdir $HOME/dev
 
