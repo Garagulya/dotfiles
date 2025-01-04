@@ -10,9 +10,9 @@ brew 'mas' # Mac App Store manager
 
 # Development
 brew 'fnm' # Node.js version manager
-brew 'imagemagick' # Image processing
+# brew 'imagemagick' # Image processing
 brew 'yarn' # Package manager
-brew 'watchman' # File watching for React-Native
+# brew 'watchman' # File watching for React-Native
 brew 'powerlevel10k' # Prompt for Zsh
 
 # Apps
@@ -26,7 +26,7 @@ cask 'firefox'
 cask 'google-chrome'
 cask 'imageoptim'
 cask 'iterm2'
-cask 'paragon-ntfs'
+# cask 'paragon-ntfs'
 cask 'postman'
 cask 'slack'
 cask 'steam'
@@ -34,13 +34,13 @@ cask 'sublime-text'
 cask 'telegram'
 cask 'the-unarchiver'
 cask 'transmission'
-cask 'transmit'
+# cask 'transmit'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'whatsapp'
 cask 'webstorm'
 cask 'zoom'
-cask 'zulu@17' # Java 17 for Android Studio React Native Development
+# cask 'zulu@17' # Java 17 for Android Studio React Native Development
 
 # Quicklook
 # cask 'qlmarkdown'
